@@ -15,7 +15,185 @@
         "location": "Markgraf-Rüdigerstrasse 52, 1150 Vienna",
         "phone": "+43(0)1 9823350",
         "imageURL": "/Images/restaurants/2_mader.jpg"
+      },
+      {
+        "title": "Gastwirtschaft Schilling",
+        "description": "They have a large selection of beer and the portion sizes are huge. It is very authentic, everything tastes so yummy.",
+        "location": "Burggasse 103, 1070 Vienna",
+        "phone": "+43(0)1 5241775",
+        "imageURL": "Images/restaurants/3_schilling.jpg"
+      },
+      {
+        "title": "Rados Gastwirtschaft",
+        "description": "One of the best places in town to eat ribs! Friendly staff, great prices - you simply feel welcome as soon as you step in.",
+        "location": "Alserbachstrasse 1, 1090 Vienna",
+        "phone": "+43(0) 660 6553880",
+        "imageURL": "Images/restaurants/4_rados.jpg"
+      },
+      {
+        "title":  "Amerling Beisl",
+        "description": "A wonderful taste experience. Enjoy a nice evening, sitting in a patio with a slightly italian flair and fast waiters.",
+        "location": "Stiftgasse 8, 1070 Vienna / phone",
+        "phone": "+43(0)1 5261660",
+        "imageURL": "Images/restaurants/5_amerlingbeisl"
+      },
+      {
+        "title": "Zwölf Apostelkeller",
+        "description": "Tucked into an unassuming side street in the 1st district, Zwölf Apostkeller is a deceptively cavernous old style beer hall, hidden in a centuries old cellar.",
+        "location": "Sonnenfelsgasse 3, 1010 Vienna",
+        "phone": "phone: +43(0)1 5126777",
+        "imageURL": "Images/restaurants/6_zwoelfapostelkeller.jpg"
+      }
+    ]
+  },
+
+  {
+    "categoryName": "Mediterranean",
+    "restaurants": [
+      {
+        "title":  "Goldfisch",
+        "description": "Famous for its tasty seafood, this really small and simple place is highly recommended if you are into eating lobster, octopus or local fishes and don't need fancy furnishing.",
+        "location": "Lerchenfelderstrasse 16, 1080 Vienna",
+        "phone": "+43(0) 664 2549596",
+        "imageURL": "images/restaurants/13_goldfisch.jpg"
+      },
+      {
+        "title": "Fischrestaurant Bodulo",
+        "description": "Italian friends recommended this pearl.Bodulo is one of the best places to go in vienna, if you want to enjoy excellent seafood and a mediterranean atmosphere.",
+        "location": "Hernalser Hauptstrasse 204, 1170 Vienna",
+        "phone": "43(0)1 4864311",
+        "imageURL":   "images/restaurants/14_bodulo.jpg"
+      },
+      {
+        "title": "Wulfisch",
+        "description": "A tiny, simple but addictive location!Tasty scents and a wide variety of seafood wraps, makes your mouth water as soon as you enter. Try one of the delicious salads. It is worth it.",
+        "location": "Haidgasse 5, 1020 Vienna",
+        "phone": "+43(0)1 9461875",
+        "imageURL": "images/restaurants/15_wulfisch.jpg"
+      },
+      {
+        "title": "Fischrestaurant Nautilus",
+        "description": "Enjoy a relaxing and wonderful evening at the Nautilus. In the middle of the famous Naschmarkt, this place is a must go if you are into seafood.",
+        "location": "Am Naschmarkt 673, 1060 Vienna",
+        "phone": "+43(0) 660 7766633",
+        "imageURL":    "images/restaurants/16_nautilus.jpg"
+      },
+      {
+        "title": "Fischrestaurant Kaj",
+        "description": "Enjoy an impressive variety of fresh fish and family-friendly ambience. Simply delicious! The owners are seemingly happy if their guests enjoy their stay.",
+        "location": "Fugbachgasse 9, 1020 Vienna",
+        "phone": "43(0)1 216 64 95",
+        "imageURL": "images/restaurants/17_kaj.jpg"
+      },
+      {
+        "title":  "Lubin",
+        "description": "Gourmet fish and a relaxing ambience will make you come back to Lubin, one of Vienna's best fish restaurants. It is not only a nice place to have dinner but you can also buy a variety of fish to take home.",
+        "location": "Hainburgerstrasse 48, 1030 Vienna",
+        "phone": "+43(0)1 7133683",
+        "imageURL": "images/restaurants/18_lubin.jpg"
+      }
+    ]
+  },
+
+  {
+    "categoryName": "Italian",
+    "restaurants": [
+      {
+        "title": "Pizzeria Ruffino",
+        "description": "Quality paired with very talkative waiters. An addictive combination with a great variety of pizza, noodles and co. Convince yourself that Ruffino is worth a visit.",
+        "location": "Josefstädterstrasse 48, 1080 Vienna",
+        "phone": "+43(0)1 4064540",
+        "imageURL": "images/restaurants/19_ruffino.jpg"
+      },
+      {
+        "title": "Disco Volante",
+        "description":  "With a pizza oven shaped like a huge disco ball in the middle of the room, which the restaurant owns its name to, eating pizza becomes an adventure. Rumour has it that even italians admire their pizza-baking-skills!",
+        "location": "Gumpendorferstrasse 98, 1060 Vienna",
+        "phone": " +43(0) 664 1952545",
+        "imageURL": "images/restaurants/20_discovolante.jpg"
+      },
+      {
+        "title": "Pizza Randale",
+        "description": "You want fresh ingredients on a delicious pizza? Then make sure you got to Pizza Randale early enough because in the evenings it is always crowded. The food is just yummy.",
+        "location": "Kettenbrückengasse 1 1050 Vienna",
+        "phone": "+43(0) 650 8550772",
+        "imageURL": "images/restaurants/21_randale.jpg"
+      },
+      {
+        "title": "Via Toledo Enopizzeria",
+        "description": "Owner Francesco Calò was voted world's best pizza cook in Salerno. Furthermore Via Toledo surprises with innovative Pizza creations. Definitely worth a visit, or two or three....",
+        "location": "Laudongasse 13, 1080 Vienna",
+        "phone": "+43(0) 660 7551672",
+        "imageURL": "images/restaurants/22_viatoledo.jpg"
+      },
+      {
+        "title": "Bio-Pizzeria Vero",
+        "description": "Vero is said to be Vienna's first organic Pizza restaurant, setting also a new appearance-trend. Oriental lamps mix with industrial ambience. Aside from the full grian pizza you should definitely try the Nutella-pizza if you prefer it sweet.",
+        "location": "Währinger Gürtel 162. 67, 1090 Vienna ",
+        "phone": "+43(0)1 3101179",
+        "imageURL": "images/restaurants/23_vero.jpg"
+      },
+      {
+        "title": "Pizzeria Mafiosi",
+        "description": "Surrounded by wooden furniture and maritime decoration, eating Pizza at Mafiosi feels a little bit like being on a pirate ship. Be very hungry when you go there, the portions are large and of course inviting.",
+        "location": "Reindorfgasse 15, 1150 Vienna",
+        "phone": "+43(0)1 8927228",
+        "imageURL": "images/restaurants/24_mafiosi.jpg"
+      }
+    ]
+  },
+
+  {
+    "categoryName": "USA/American",
+    "restaurants": [
+      {
+        "title": "Addicted to Rock Bar & Burger",
+        "description": "A drink and a burger with Rock n'Roll - flair. Sounds tempting? We agree. All the burgers are tasty but the Addicted-Burger not only tastes good but comes with a black bread. Two thumbs up for this small sister of the Hardrock Cafe.",
+        "location": "Getreidemarkt 11, 1060 Vienna",
+        "phone": "+43(0)1 58126470",
+        "imageURL":"images/restaurants/25_addictedtorock.jpg"
+      },
+      {
+        "title": "Omnom Burger",
+        "description": "Lots of different burgers with additional ingredients to choose from. Omnom is widespread in Vienna and we are a fan too. Enjoy a fresh-made burger in a relaxing and simple surrounding.",
+        "location": "Sechsschimmelgasse 24, 1090 Vienna",
+        "phone": "+43(0) 660 1090707",
+        "imageURL": "images/restaurants/26_omnom.jpg"
+      },
+      {
+        "title": "Teddy's American Burger",
+        "description": "If you are a fan of the Back to the future movies you will love this diner. Have a tasty burger and feel like you woke up in the 50ies. Worth a visit.",
+        "location": "Wehlistrasse 64-66, 1200 Vienna",
+        "phone": " +43(0)1 3306197",
+        "imageURL": "images/restaurants/27_teddysdiner.jpeg"
+      },
+      {
+        "title": "Weinschenke - Feinste Burger",
+        "description": "One would not expect such delicious burger creations in a restaurant with such misleading name. This is an insider tip from us. The food is marvellous, the furnishing unexpected for a burger location. Check out the extra-ordinary paintings on their wall.",
+        "location": "Franzensgasse 11, 1050 Vienna",
+        "phone": "+43(0) 660 507630",
+        "imageURL": "images/restaurants/28_weinschenke.jpg"
+      },
+      {
+        "title": "Burger's Bar Wien",
+        "description": "Probably the biggest burgers in town we know. The air smells of barbecue, the street outside a bit noisy but who cares when you are about to bite in a tasty, fresh burger.",
+        "location": "Vorgartenstrasse 204, 1020 Vienna",
+        "phone": "+43(0) 676 9403451",
+        "imageURL": "images/restaurants/29_burgersbar.jpg"
+      },
+      {
+        "title": "Hawidere Beer & Burger",
+        "description": "A cult place for burger and music lovers. Enjoy tasty burger variations and occasionally you are accompanied by local bands while your eating. Authentic and down to earth.",
+        "location": "Ullmannstrasse 31, 1150 Vienna",
+        "phone": "+43(0) 664 1508429",
+        "imageURL": "images/restaurants/30_hawidere.jpg"
       }
     ]
   }
+
+
+
+
+
 ]
+
