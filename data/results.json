@@ -1,0 +1,21 @@
+[
+  {
+    "categoryName": "Austrian",
+    "restaurants": [
+      {
+        "title": "Donaufelderhof",
+        "description": "A nice garden with relaxing atmosphere. Aside from traditional Austrian food you might as well order rarely seen dishes like a Langos Burger",
+        "location": "Donaufelderstrasse 66, 1220 Vienna",
+        "phone": "+43(0)1 2564690",
+        "imageURL": "/Images/restaurants/1_donaufelderhof.jpg"
+      },
+      {
+        "title": "Restaurant Mader",
+        "description": "An old traditional Austrian restaurant run by a hospitable family for many years. Their masterpieces are Wiener Schnitzel and Gulasch.",
+        "location": "Markgraf-Rüdigerstrasse 52, 1150 Vienna",
+        "phone": "+43(0)1 9823350",
+        "imageURL": "/Images/restaurants/2_mader.jpg"
+      }
+    ]
+  }
+]
