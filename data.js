@@ -27,13 +27,13 @@ const mapPointsToCategoryName = (points) => {
     } else if (points>=35 && points<=39) {
         return "Italian";
     } else if(points>=40 && points<=44) {
-        return "USA/American";
+        return "American";
     } else if(points>=45 && points<=49) {
         return "Hawaiian";
     } else if(points>=50 && points<=54) {
         return "Greek";
     } else if (points>=55 && points<=59) {
-        return "Turkish/Oriental";
+        return "Oriental";
     } else if (points>=60 && points<=64) {
         return "Persian";
     } else if (points>=65 && points<=69) {
