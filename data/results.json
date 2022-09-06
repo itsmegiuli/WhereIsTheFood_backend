@@ -30,7 +30,7 @@
         "title":  "Amerling Beisl",
         "description": "A wonderful taste experience. Enjoy a nice evening, sitting in a patio with a slightly italian flair and fast waiters.",
         "location": "Stiftgasse 8, 1070 Vienna / phone",
-        "imageURL": "/Images/restaurants/5_amerlingbeisl"
+        "imageURL": "/Images/restaurants/5_amerlingbeisl.jpg"
       },
       {
         "title": "Zwölf Apostelkeller",
@@ -54,7 +54,7 @@
         "title": "Brasserie de la Marie",
         "description": "Carmen, the owner is always making sure, everyone enjoys the atmosphere with the slightly different furnishings. A tasty variety of delicious food!",
         "location": "Amerlingstrasse 15, 1060 Vienna",
-        "imageURL": "/Images/restaurants/8_brasseriemarie"
+        "imageURL": "/Images/restaurants/8_brasseriemarie.jpg"
       },
       {
         "title": "Léontine",
@@ -186,7 +186,7 @@
         "title": "Teddy's American Burger",
         "description": "If you are a fan of the Back to the future movies you will love this diner. Have a tasty burger and feel like you woke up in the 50ies. Worth a visit.",
         "location": "Wehlistrasse 64-66, 1200 Vienna",
-        "imageURL": "/Images/restaurants/27_teddysdiner.jpeg"
+        "imageURL": "/Images/restaurants/27_teddysdiner.jpg"
       },
       {
         "title": "Weinschenke - Feinste Burger",
@@ -360,19 +360,19 @@
         "title": "Arezu - modern persian cuisine",
         "description": "Arezu chose a more modern persian style of cuisine and is also highly recommandable. You will be surprised of flavours and varieties in this ",
         "location": "Florianigasse 19, 1080 Vienna",
-        "imageURL": "/Images/restaurants/52_arezu"
+        "imageURL": "/Images/restaurants/52_arezu.jpg"
       },
       {
         "title": "Adish - Cafe Restaurant & Bar",
         "description": "This mixture of Bar and Restaurant is really appealing. Diving into the world of persian cuisine is tasty there. Also a nice and relaxing ambience.",
         "location": "Redtenbachergasse 6, 1160 Vienna",
-        "imageURL": "/Images/restaurants/53_adisch"
+        "imageURL": "/Images/restaurants/53_adisch.jpg"
       },
       {
         "title": "Restaurant Nayeb",
         "description": "We discovered this tiny restaurant by coincidence. At noon you can try different persian dishes at a delicious buffet. A secret we share with you",
         "location": "Gumpendorferstrasse 22, 1060 Vienna",
-        "imageURL": "/Images/restaurants/54_nayeb"
+        "imageURL": "/Images/restaurants/54_nayeb.jpg"
       }
     ]
   },
@@ -384,37 +384,37 @@
         "title": "Happy Buddha",
         "description": "Although the interior looks a little bit like a traditional viennese so called Gasthaus, they really know their way around when it comes to traditionally spiced chinese food.",
         "location": "Mariahilfer Gürtel 9, 1150 Vienna",
-        "imageURL": "image/restaurants/55_happybuddha.jpg"
+        "imageURL": "Images/restaurants/55_happybuddha.jpg"
       },
       {
         "title": "China Restaurant Sun",
         "description": "This is the place to go if you love dim sum in all varieties. They also have specialties on the menu which change regularly. An elegant way to enjoy chinese dishes.",
         "location": "Hietzinger Hauptstrasse 86, 1130 Vienna",
-        "imageURL": "image/restaurants/56_sun.jpg"
+        "imageURL": "Images/restaurants/56_sun.jpg"
       },
       {
         "title": "Restaurant ON",
         "description": "In the style of a viennese bar the ON is a relaxing place to enjoy your meal. It can definitely compete with traditional chinese restaurants but adding some modern flavours to their menue. ",
         "location": "Wehrgasse 8, 1050 Vienna",
-        "imageURL": "image/restaurants/57_on.jpg"
+        "imageURL": "Images/restaurants/57_on.jpg"
       },
       {
         "title": "China Restaurant Hua Qiang",
         "description": "Very modern design and a pleasure spending time there. Aside from the fabulous food you can enjoy the elegant but not too overwhelming atmosphere.",
         "location": "Hartlebengasse 21; 1220 Vienna",
-        "imageURL": "image/restaurants/58_huaqiang.jpg"
+        "imageURL": "Images/restaurants/58_huaqiang.jpg"
       },
       {
         "title": "Yuan",
         "description": "Satisfying price-performance ratio and large portions. Also a good place to go when you are really hungry, aside from the fact, that the appearance of this place is inviting.,",
         "location": "Hernalser Hauptstrasse 200/1-2, 1170 Vienna",
-        "imageURL": "image/restaurants/59_yuan.jpg"
+        "imageURL": "Images/restaurants/59_yuan.jpg"
       },
       {
         "title": "China Restaurant No.27",
         "description": "Behind No.27 hides a cozy restaurant with focus on szechuan cuisine. Trendy and an enlightening atmosphere will make you want to linger the whole evening.",
         "location": "Ungargasse 27,1030 Vienna",
-        "imageURL": "image/restaurants/60_no27.jpg"
+        "imageURL": "Images/restaurants/60_no27.jpg"
       }
     ]
   },
@@ -485,7 +485,7 @@
       {
         "title": "Mach ma Curry",
         "description": "This higly reccommendable location is a mixture of cozy bar and elegant restaurant, offering a great variety of innovative indian curries.",
-        "location": "Schopenhauerstraße 78,, 1180 Vienna",
+        "location": "Schopenhauerstraße 78, 1180 Vienna",
         "imageURL": "/Images/restaurants/70_machmacurry.jpg"
       },
       {
@@ -498,7 +498,7 @@
         "title":  "Curry Vibes - Spice up your Life!",
         "description": "The name indicates a tastful adventure which it is indeed to eat one of the large curry variations or a typically indian dessert. The athmosphere is simple but cozy.",
         "location": "Moissigasse 3, 1220 Vienna",
-        "imageURL": "/Images/restaurants/72_curryvibes"
+        "imageURL": "/Images/restaurants/72_curryvibes.jpg"
       }
     ]
   }
