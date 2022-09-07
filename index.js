@@ -6,8 +6,8 @@ const authentication = require('./authentication');
 const ensureAuth = require('./auth-middleware');
 const favorites = require('./favorites');
 const data = require('./data');
-const app = express();         //comment to be deleted: importing express
-const port = 4000;            // comment to be deleted: changed so there's no conflict with react
+const app = express();
+const port = 4000;
 
 const favoritesDataStore = {};
 
@@ -16,7 +16,7 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-app.get("/", (req, res) => res.send("Trying this")); // comment to be deleted: and line to be deleted!
+app.get("/", (req, res) => res.send("Trying this"));
 
 app.post('/sign-up', (req, res) => {
    const { username, password } = req.body;
