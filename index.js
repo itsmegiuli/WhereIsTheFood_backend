@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const jwt = require('jsonwebtoken');
 const authentication = require('./authentication');
 const ensureAuth = require('./auth-middleware');
+
 const favorites = require('./favorites');
 const data = require('./data');
 const app = express();
@@ -48,6 +49,8 @@ app.get('/get-category', (req, res) => {
    }
 });
 
+{/** Favorites: only allowed for signed-in users to get, add, delete them **/}
+{/*ensure Auth = verify token, verifies that the user is signed in*/}
 app.get('/favorites', ensureAuth,  (req, res) => {
    try {
       const favoriteCategoryNames = favorites.getFavoriteCategoriesForUser(req.user.username);
@@ -58,6 +61,7 @@ app.get('/favorites', ensureAuth,  (req, res) => {
    }
 });
 
+{/*ensure Auth = verify token, verifies that the user is signed in*/}
 app.put('/favorites', ensureAuth,  (req, res) => {
    try {
       const categoryName = req.body.categoryName;
@@ -69,6 +73,7 @@ app.put('/favorites', ensureAuth,  (req, res) => {
    }
 });
 
+{/*ensure Auth = verify token, verifies that the user is signed in*/}
 app.delete('/favorites/:categoryName', ensureAuth,  (req, res) => {
    try {
       const categoryName = req.params.categoryName;

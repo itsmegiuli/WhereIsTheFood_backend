@@ -1,4 +1,5 @@
 const jwt = require('jsonwebtoken');
+//JWT represents encrypted content using JSON-based data structure
 const config = require('./config');
 
 const accounts = [
